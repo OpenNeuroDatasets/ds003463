@@ -1,0 +1,60 @@
+{
+    "Manufacturer": "Bruker BioSpin MRI GmbH",
+    "ManufacturersModelName": "BioSpec 94/20",
+    "DeviceSerialNumber": 10230731,
+    "StationName": "BioSpec 94/20",
+    "SoftwareVersion": "PV-7.0.0",
+    "MagneticFieldStrength": 9.402796971599681,
+    "ReceiveCoilName": "RF ARR 400 1H R.BR LIN RO AD",
+    "ReceiveCoilActiveElements": "MULTICOIL",
+    "GradientSetType": "Value was not specified",
+    "MRTransmitCoilSequence": {
+        "Name": "RF RES 400 1H 112/086 QSN TO AD",
+        "Manufacture": "BMRIDE",
+        "Type": "VOLUME_COIL"
+    },
+    "CoilConfigName": "Value was not specified",
+    "MatrixCoilMode": "ParallelExperiment",
+    "CoilCombinationMethod": "Value was not specified",
+    "PulseSequenceType": "mriMP2RAGE.ppg",
+    "ScanningSequence": "User:mriMP2RAGE",
+    "SequenceVariant": "Both",
+    "ScanOptions": {
+        "RG": "No",
+        "CG": "No",
+        "PFF": 1,
+        "PFP": 1,
+        "FC": "FlowNone",
+        "SP": "Off",
+        "FP": "FatSuppression"
+    },
+    "SequenceName": "RatBrain_MP2RAGE_190",
+    "PulseSequenceDetails": "RatBrain_MP2RAGE_190 (E3)",
+    "NonlinearGradientCorrection": "RectilinearTraversal",
+    "NumberShots": 1,
+    "ParallelReductionFactorInPlane": 160,
+    "ParallelAcquisitionTechnique": "Value was not specified",
+    "PartialFourier": [
+        1,
+        1,
+        1
+    ],
+    "PartialFourierDirection": "Value was not specified",
+    "PhaseEncodingDirection": "i",
+    "EffectiveEchoSpacing": 1.2500000000000002e-07,
+    "TotalReadoutTime": 2e-05,
+    "EchoTime": 0.00269502056506908,
+    "InversionTime": 900,
+    "SliceTiming": [
+        0.0,
+        0.5625
+    ],
+    "SliceEncodingDirection": "k",
+    "DwellTime": 0.0032,
+    "FlipAngle": 5,
+    "MultibandAccerlationFactor": "Value was not specified",
+    "AnatomicalLandmarkCoordinates": "Value was not specified",
+    "InstitutionName": "Kings College London",
+    "InstitutionAddress": "Value was not specified",
+    "InstitutionalDepartmentName": "Value was not specified"
+}
