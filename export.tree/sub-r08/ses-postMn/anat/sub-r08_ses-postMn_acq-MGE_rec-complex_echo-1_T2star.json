@@ -1,0 +1,63 @@
+{
+    "Manufacturer": "Bruker BioSpin MRI GmbH",
+    "ManufacturersModelName": "BioSpec 94/20",
+    "DeviceSerialNumber": 10230731,
+    "StationName": "BioSpec 94/20",
+    "SoftwareVersion": "PV-7.0.0",
+    "MagneticFieldStrength": 9.402796588640125,
+    "ReceiveCoilName": "RF ARR 400 1H R.BR LIN RO AD",
+    "ReceiveCoilActiveElements": "MULTICOIL",
+    "GradientSetType": "Value was not specified",
+    "MRTransmitCoilSequence": {
+        "Name": "RF RES 400 1H 112/086 QSN TO AD",
+        "Manufacture": "BMRIDE",
+        "Type": "VOLUME_COIL"
+    },
+    "CoilConfigName": "Value was not specified",
+    "MatrixCoilMode": "ParallelExperiment",
+    "CoilCombinationMethod": "Value was not specified",
+    "PulseSequenceType": "MGE.ppg",
+    "ScanningSequence": "Bruker:MGE",
+    "SequenceVariant": "Both",
+    "ScanOptions": {
+        "RG": "No",
+        "CG": "No",
+        "PFF": 1,
+        "PFP": 1,
+        "FC": "FlowNone",
+        "SP": "On",
+        "FP": "FatSuppression"
+    },
+    "SequenceName": "RatBrain_MEMRI_MGE_3D",
+    "PulseSequenceDetails": "RatBrain_MEMRI_MGE_3D (E5)",
+    "NonlinearGradientCorrection": "RectilinearTraversal",
+    "NumberShots": 1,
+    "ParallelReductionFactorInPlane": 1,
+    "ParallelAcquisitionTechnique": "Value was not specified",
+    "PartialFourier": [
+        1,
+        1,
+        1
+    ],
+    "PartialFourierDirection": "Value was not specified",
+    "PhaseEncodingDirection": "j",
+    "EffectiveEchoSpacing": 3.286956521739138e-05,
+    "TotalReadoutTime": 0.007560000000000016,
+    "EchoTime": 0.0062,
+    "InversionTime": "Value was not specified",
+    "SliceTiming": [
+        0.0,
+        0.00375,
+        0.0075,
+        0.01125,
+        0.015
+    ],
+    "SliceEncodingDirection": "k",
+    "DwellTime": 0.007560000000000016,
+    "FlipAngle": 30,
+    "MultibandAccerlationFactor": "Value was not specified",
+    "AnatomicalLandmarkCoordinates": "Value was not specified",
+    "InstitutionName": "Kings College London",
+    "InstitutionAddress": "Value was not specified",
+    "InstitutionalDepartmentName": "Value was not specified"
+}

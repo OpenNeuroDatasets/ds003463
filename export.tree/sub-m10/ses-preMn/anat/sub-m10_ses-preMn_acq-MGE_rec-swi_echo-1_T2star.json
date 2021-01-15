@@ -1,0 +1,62 @@
+{
+    "Manufacturer": "Bruker BioSpin MRI GmbH",
+    "ManufacturersModelName": "BioSpec 94/20",
+    "DeviceSerialNumber": 10230731,
+    "StationName": "BioSpec 94/20",
+    "SoftwareVersion": "6.0.1",
+    "MagneticFieldStrength": 9.402833042149075,
+    "ReceiveCoilName": "Value was not specified",
+    "ReceiveCoilActiveElements": "Value was not specified",
+    "GradientSetType": "Value was not specified",
+    "MRTransmitCoilSequence": {
+        "Name": null,
+        "Manufacture": null,
+        "Type": null
+    },
+    "CoilConfigName": "Value was not specified",
+    "MatrixCoilMode": "ParallelExperiment",
+    "CoilCombinationMethod": "Value was not specified",
+    "PulseSequenceType": "MGE.ppg",
+    "ScanningSequence": "Bruker:MGE",
+    "SequenceVariant": "Both",
+    "ScanOptions": {
+        "RG": "No",
+        "CG": "No",
+        "PFF": 1,
+        "PFP": 1,
+        "FC": "FlowNone",
+        "SP": "On",
+        "FP": "FatSuppression"
+    },
+    "SequenceName": "T1_MGE_3D",
+    "PulseSequenceDetails": "MEMRI_T1_MGE_3D (E7)",
+    "NonlinearGradientCorrection": "RectilinearTraversal",
+    "NumberShots": 1,
+    "ParallelReductionFactorInPlane": 1,
+    "ParallelAcquisitionTechnique": "Value was not specified",
+    "PartialFourier": [
+        1,
+        1,
+        1
+    ],
+    "PartialFourierDirection": "Value was not specified",
+    "PhaseEncodingDirection": "j",
+    "EffectiveEchoSpacing": 3.360000000000007e-05,
+    "TotalReadoutTime": 0.005040000000000011,
+    "EchoTime": 0.005,
+    "InversionTime": "Value was not specified",
+    "SliceTiming": [
+        0.0,
+        0.0625,
+        0.125,
+        0.1875
+    ],
+    "SliceEncodingDirection": "k",
+    "DwellTime": 0.005040000000000011,
+    "FlipAngle": 50,
+    "MultibandAccerlationFactor": "Value was not specified",
+    "AnatomicalLandmarkCoordinates": "Value was not specified",
+    "InstitutionName": "Kings College London",
+    "InstitutionAddress": "Value was not specified",
+    "InstitutionalDepartmentName": "Value was not specified"
+}
